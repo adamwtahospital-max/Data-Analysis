@@ -1,0 +1,8 @@
+inspect_report()
+extract_report()
+validate_report()
+compare_periods()
+get_historical_data()
+update_master_workbook()
+generate_management_report()
+get_import_history()
